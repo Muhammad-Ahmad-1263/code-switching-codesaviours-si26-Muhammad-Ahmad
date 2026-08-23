@@ -1,0 +1,1420 @@
+sentence,word,label
+Aaj ka din bohot busy tha,Aaj,URD
+Aaj ka din bohot busy tha,ka,URD
+Aaj ka din bohot busy tha,din,URD
+Aaj ka din bohot busy tha,bohot,URD
+Aaj ka din bohot busy tha,busy,ENG
+Aaj ka din bohot busy tha,tha,URD
+Yaar seriously I can not even right now,Yaar,URD
+Yaar seriously I can not even right now,seriously,ENG
+Yaar seriously I can not even right now,I,ENG
+Yaar seriously I can not even right now,can,ENG
+Yaar seriously I can not even right now,not,ENG
+Yaar seriously I can not even right now,even,ENG
+Yaar seriously I can not even right now,right,ENG
+Yaar seriously I can not even right now,now,ENG
+Bhai kal mera presentation hai still not prepared at all,Bhai,URD
+Bhai kal mera presentation hai still not prepared at all,kal,URD
+Bhai kal mera presentation hai still not prepared at all,mera,URD
+Bhai kal mera presentation hai still not prepared at all,presentation,ENG
+Bhai kal mera presentation hai still not prepared at all,hai,URD
+Bhai kal mera presentation hai still not prepared at all,still,ENG
+Bhai kal mera presentation hai still not prepared at all,not,ENG
+Bhai kal mera presentation hai still not prepared at all,prepared,ENG
+Bhai kal mera presentation hai still not prepared at all,at,ENG
+Bhai kal mera presentation hai still not prepared at all,all,ENG
+Khana kha liya I was literally waiting for you,Khana,URD
+Khana kha liya I was literally waiting for you,kha,URD
+Khana kha liya I was literally waiting for you,liya,URD
+Khana kha liya I was literally waiting for you,I,ENG
+Khana kha liya I was literally waiting for you,was,ENG
+Khana kha liya I was literally waiting for you,literally,ENG
+Khana kha liya I was literally waiting for you,waiting,ENG
+Khana kha liya I was literally waiting for you,for,ENG
+Khana kha liya I was literally waiting for you,you,ENG
+Mujhe bilkul samajh nahi aa raha what to do next,Mujhe,URD
+Mujhe bilkul samajh nahi aa raha what to do next,bilkul,URD
+Mujhe bilkul samajh nahi aa raha what to do next,samajh,URD
+Mujhe bilkul samajh nahi aa raha what to do next,nahi,URD
+Mujhe bilkul samajh nahi aa raha what to do next,aa,URD
+Mujhe bilkul samajh nahi aa raha what to do next,raha,URD
+Mujhe bilkul samajh nahi aa raha what to do next,what,ENG
+Mujhe bilkul samajh nahi aa raha what to do next,to,ENG
+Mujhe bilkul samajh nahi aa raha what to do next,do,ENG
+Mujhe bilkul samajh nahi aa raha what to do next,next,ENG
+Yeh assignment tou bohot mushkil lag raha hai honestly,Yeh,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,assignment,ENG
+Yeh assignment tou bohot mushkil lag raha hai honestly,tou,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,bohot,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,mushkil,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,lag,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,raha,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,hai,URD
+Yeh assignment tou bohot mushkil lag raha hai honestly,honestly,ENG
+I swear mera sar dard kar raha hai abhi,I,ENG
+I swear mera sar dard kar raha hai abhi,swear,ENG
+I swear mera sar dard kar raha hai abhi,mera,URD
+I swear mera sar dard kar raha hai abhi,sar,URD
+I swear mera sar dard kar raha hai abhi,dard,URD
+I swear mera sar dard kar raha hai abhi,kar,URD
+I swear mera sar dard kar raha hai abhi,raha,URD
+I swear mera sar dard kar raha hai abhi,hai,URD
+I swear mera sar dard kar raha hai abhi,abhi,URD
+Chalo let's just finish this project aaj hi,Chalo,URD
+Chalo let's just finish this project aaj hi,let's,ENG
+Chalo let's just finish this project aaj hi,just,ENG
+Chalo let's just finish this project aaj hi,finish,ENG
+Chalo let's just finish this project aaj hi,this,ENG
+Chalo let's just finish this project aaj hi,project,ENG
+Chalo let's just finish this project aaj hi,aaj,URD
+Chalo let's just finish this project aaj hi,hi,URD
+Yaar itna kaam hai but I have zero motivation,Yaar,URD
+Yaar itna kaam hai but I have zero motivation,itna,URD
+Yaar itna kaam hai but I have zero motivation,kaam,URD
+Yaar itna kaam hai but I have zero motivation,hai,URD
+Yaar itna kaam hai but I have zero motivation,but,ENG
+Yaar itna kaam hai but I have zero motivation,I,ENG
+Yaar itna kaam hai but I have zero motivation,have,ENG
+Yaar itna kaam hai but I have zero motivation,zero,ENG
+Yaar itna kaam hai but I have zero motivation,motivation,ENG
+Kal exam tha and I totally forgot about it,Kal,URD
+Kal exam tha and I totally forgot about it,exam,ENG
+Kal exam tha and I totally forgot about it,tha,URD
+Kal exam tha and I totally forgot about it,and,ENG
+Kal exam tha and I totally forgot about it,I,ENG
+Kal exam tha and I totally forgot about it,totally,ENG
+Kal exam tha and I totally forgot about it,forgot,ENG
+Kal exam tha and I totally forgot about it,about,ENG
+Kal exam tha and I totally forgot about it,it,ENG
+Mera phone hang ho gaya again,Mera,URD
+Mera phone hang ho gaya again,phone,MIX
+Mera phone hang ho gaya again,hang,ENG
+Mera phone hang ho gaya again,ho,URD
+Mera phone hang ho gaya again,gaya,URD
+Mera phone hang ho gaya again,again,ENG
+Bas thori der mein aa jaunga wait kar lo,Bas,URD
+Bas thori der mein aa jaunga wait kar lo,thori,URD
+Bas thori der mein aa jaunga wait kar lo,der,URD
+Bas thori der mein aa jaunga wait kar lo,mein,URD
+Bas thori der mein aa jaunga wait kar lo,aa,URD
+Bas thori der mein aa jaunga wait kar lo,jaunga,URD
+Bas thori der mein aa jaunga wait kar lo,wait,ENG
+Bas thori der mein aa jaunga wait kar lo,kar,URD
+Bas thori der mein aa jaunga wait kar lo,lo,URD
+Honestly mujhe kuch samajh nahi aa raha,Honestly,ENG
+Honestly mujhe kuch samajh nahi aa raha,mujhe,URD
+Honestly mujhe kuch samajh nahi aa raha,kuch,URD
+Honestly mujhe kuch samajh nahi aa raha,samajh,URD
+Honestly mujhe kuch samajh nahi aa raha,nahi,URD
+Honestly mujhe kuch samajh nahi aa raha,aa,URD
+Honestly mujhe kuch samajh nahi aa raha,raha,URD
+Weekend pe hum log beach jaa rahe hain,Weekend,ENG
+Weekend pe hum log beach jaa rahe hain,pe,URD
+Weekend pe hum log beach jaa rahe hain,hum,URD
+Weekend pe hum log beach jaa rahe hain,log,URD
+Weekend pe hum log beach jaa rahe hain,beach,ENG
+Weekend pe hum log beach jaa rahe hain,jaa,URD
+Weekend pe hum log beach jaa rahe hain,rahe,URD
+Weekend pe hum log beach jaa rahe hain,hain,URD
+Mujhe laga tha ke tum time pe aao gay,Mujhe,URD
+Mujhe laga tha ke tum time pe aao gay,laga,URD
+Mujhe laga tha ke tum time pe aao gay,tha,URD
+Mujhe laga tha ke tum time pe aao gay,ke,URD
+Mujhe laga tha ke tum time pe aao gay,tum,URD
+Mujhe laga tha ke tum time pe aao gay,time,ENG
+Mujhe laga tha ke tum time pe aao gay,pe,URD
+Mujhe laga tha ke tum time pe aao gay,aao,URD
+Mujhe laga tha ke tum time pe aao gay,gay,URD
+Yaar please thora sabar kar lo abhi busy hoon,Yaar,URD
+Yaar please thora sabar kar lo abhi busy hoon,please,ENG
+Yaar please thora sabar kar lo abhi busy hoon,thora,URD
+Yaar please thora sabar kar lo abhi busy hoon,sabar,URD
+Yaar please thora sabar kar lo abhi busy hoon,kar,URD
+Yaar please thora sabar kar lo abhi busy hoon,lo,URD
+Yaar please thora sabar kar lo abhi busy hoon,abhi,URD
+Yaar please thora sabar kar lo abhi busy hoon,busy,ENG
+Yaar please thora sabar kar lo abhi busy hoon,hoon,URD
+I don't know yaar kya karna hai ab,I,ENG
+I don't know yaar kya karna hai ab,don't,ENG
+I don't know yaar kya karna hai ab,know,ENG
+I don't know yaar kya karna hai ab,yaar,URD
+I don't know yaar kya karna hai ab,kya,URD
+I don't know yaar kya karna hai ab,karna,URD
+I don't know yaar kya karna hai ab,hai,URD
+I don't know yaar kya karna hai ab,ab,URD
+Subha se meeting attend kar rahi hoon nonstop,Subha,URD
+Subha se meeting attend kar rahi hoon nonstop,se,URD
+Subha se meeting attend kar rahi hoon nonstop,meeting,ENG
+Subha se meeting attend kar rahi hoon nonstop,attend,ENG
+Subha se meeting attend kar rahi hoon nonstop,kar,URD
+Subha se meeting attend kar rahi hoon nonstop,rahi,URD
+Subha se meeting attend kar rahi hoon nonstop,hoon,URD
+Subha se meeting attend kar rahi hoon nonstop,nonstop,ENG
+Mujhe bharosa nahi tha ke ye deal ho jayegi,Mujhe,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,bharosa,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,nahi,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,tha,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,ke,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,ye,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,deal,ENG
+Mujhe bharosa nahi tha ke ye deal ho jayegi,ho,URD
+Mujhe bharosa nahi tha ke ye deal ho jayegi,jayegi,URD
+Chill karo yaar itna stress nahi lena chahiye,Chill,ENG
+Chill karo yaar itna stress nahi lena chahiye,karo,URD
+Chill karo yaar itna stress nahi lena chahiye,yaar,URD
+Chill karo yaar itna stress nahi lena chahiye,itna,URD
+Chill karo yaar itna stress nahi lena chahiye,stress,ENG
+Chill karo yaar itna stress nahi lena chahiye,nahi,URD
+Chill karo yaar itna stress nahi lena chahiye,lena,URD
+Chill karo yaar itna stress nahi lena chahiye,chahiye,URD
+Traffic itni zyada thi that I got super late,Traffic,ENG
+Traffic itni zyada thi that I got super late,itni,URD
+Traffic itni zyada thi that I got super late,zyada,URD
+Traffic itni zyada thi that I got super late,thi,URD
+Traffic itni zyada thi that I got super late,that,ENG
+Traffic itni zyada thi that I got super late,I,ENG
+Traffic itni zyada thi that I got super late,got,ENG
+Traffic itni zyada thi that I got super late,super,ENG
+Traffic itni zyada thi that I got super late,late,ENG
+Ab tou bas ek hi option bacha hai,Ab,URD
+Ab tou bas ek hi option bacha hai,tou,URD
+Ab tou bas ek hi option bacha hai,bas,URD
+Ab tou bas ek hi option bacha hai,ek,URD
+Ab tou bas ek hi option bacha hai,hi,URD
+Ab tou bas ek hi option bacha hai,option,ENG
+Ab tou bas ek hi option bacha hai,bacha,URD
+Ab tou bas ek hi option bacha hai,hai,URD
+Mera mood bilkul off hai aaj kal,Mera,URD
+Mera mood bilkul off hai aaj kal,mood,ENG
+Mera mood bilkul off hai aaj kal,bilkul,URD
+Mera mood bilkul off hai aaj kal,off,ENG
+Mera mood bilkul off hai aaj kal,hai,URD
+Mera mood bilkul off hai aaj kal,aaj,URD
+Mera mood bilkul off hai aaj kal,kal,URD
+Kabhi kabhi lagta hai ke life is just unfair,Kabhi,URD
+Kabhi kabhi lagta hai ke life is just unfair,kabhi,URD
+Kabhi kabhi lagta hai ke life is just unfair,lagta,URD
+Kabhi kabhi lagta hai ke life is just unfair,hai,URD
+Kabhi kabhi lagta hai ke life is just unfair,ke,URD
+Kabhi kabhi lagta hai ke life is just unfair,life,ENG
+Kabhi kabhi lagta hai ke life is just unfair,is,ENG
+Kabhi kabhi lagta hai ke life is just unfair,just,ENG
+Kabhi kabhi lagta hai ke life is just unfair,unfair,ENG
+Aap please thora patience rakhein its almost done,Aap,URD
+Aap please thora patience rakhein its almost done,please,ENG
+Aap please thora patience rakhein its almost done,thora,URD
+Aap please thora patience rakhein its almost done,patience,ENG
+Aap please thora patience rakhein its almost done,rakhein,URD
+Aap please thora patience rakhein its almost done,its,ENG
+Aap please thora patience rakhein its almost done,almost,ENG
+Aap please thora patience rakhein its almost done,done,ENG
+Mujhe office se late reply mila tha yesterday,Mujhe,URD
+Mujhe office se late reply mila tha yesterday,office,ENG
+Mujhe office se late reply mila tha yesterday,se,URD
+Mujhe office se late reply mila tha yesterday,late,ENG
+Mujhe office se late reply mila tha yesterday,reply,ENG
+Mujhe office se late reply mila tha yesterday,mila,URD
+Mujhe office se late reply mila tha yesterday,tha,URD
+Mujhe office se late reply mila tha yesterday,yesterday,ENG
+Yeh internet ka connection bohot slow hai aaj,Yeh,URD
+Yeh internet ka connection bohot slow hai aaj,internet,MIX
+Yeh internet ka connection bohot slow hai aaj,ka,URD
+Yeh internet ka connection bohot slow hai aaj,connection,ENG
+Yeh internet ka connection bohot slow hai aaj,bohot,URD
+Yeh internet ka connection bohot slow hai aaj,slow,ENG
+Yeh internet ka connection bohot slow hai aaj,hai,URD
+Yeh internet ka connection bohot slow hai aaj,aaj,URD
+I really need thora break warna pagal ho jaunga,I,ENG
+I really need thora break warna pagal ho jaunga,really,ENG
+I really need thora break warna pagal ho jaunga,need,ENG
+I really need thora break warna pagal ho jaunga,thora,URD
+I really need thora break warna pagal ho jaunga,break,ENG
+I really need thora break warna pagal ho jaunga,warna,URD
+I really need thora break warna pagal ho jaunga,pagal,URD
+I really need thora break warna pagal ho jaunga,ho,URD
+I really need thora break warna pagal ho jaunga,jaunga,URD
+Kal raat neend hi nahi aayi thi properly,Kal,URD
+Kal raat neend hi nahi aayi thi properly,raat,URD
+Kal raat neend hi nahi aayi thi properly,neend,URD
+Kal raat neend hi nahi aayi thi properly,hi,URD
+Kal raat neend hi nahi aayi thi properly,nahi,URD
+Kal raat neend hi nahi aayi thi properly,aayi,URD
+Kal raat neend hi nahi aayi thi properly,thi,URD
+Kal raat neend hi nahi aayi thi properly,properly,ENG
+Excited hoon for this weekend trip yaar,Excited,ENG
+Excited hoon for this weekend trip yaar,hoon,URD
+Excited hoon for this weekend trip yaar,for,ENG
+Excited hoon for this weekend trip yaar,this,ENG
+Excited hoon for this weekend trip yaar,weekend,ENG
+Excited hoon for this weekend trip yaar,trip,ENG
+Excited hoon for this weekend trip yaar,yaar,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,Mujhe,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,abhi,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,bhi,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,believe,ENG
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,nahi,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,ho,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,raha,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,ke,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,ye,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,sach,URD
+Mujhe abhi bhi believe nahi ho raha ke ye sach hai,hai,URD
+Ap ka message dekha but I forgot to reply,Ap,URD
+Ap ka message dekha but I forgot to reply,ka,URD
+Ap ka message dekha but I forgot to reply,message,ENG
+Ap ka message dekha but I forgot to reply,dekha,URD
+Ap ka message dekha but I forgot to reply,but,ENG
+Ap ka message dekha but I forgot to reply,I,ENG
+Ap ka message dekha but I forgot to reply,forgot,ENG
+Ap ka message dekha but I forgot to reply,to,ENG
+Ap ka message dekha but I forgot to reply,reply,ENG
+Zara wait karo main bas coming hoon,Zara,URD
+Zara wait karo main bas coming hoon,wait,ENG
+Zara wait karo main bas coming hoon,karo,URD
+Zara wait karo main bas coming hoon,main,URD
+Zara wait karo main bas coming hoon,bas,URD
+Zara wait karo main bas coming hoon,coming,ENG
+Zara wait karo main bas coming hoon,hoon,URD
+Itni garmi hai I can barely breathe outside,Itni,URD
+Itni garmi hai I can barely breathe outside,garmi,URD
+Itni garmi hai I can barely breathe outside,hai,URD
+Itni garmi hai I can barely breathe outside,I,ENG
+Itni garmi hai I can barely breathe outside,can,ENG
+Itni garmi hai I can barely breathe outside,barely,ENG
+Itni garmi hai I can barely breathe outside,breathe,ENG
+Itni garmi hai I can barely breathe outside,outside,ENG
+Mera data khatam ho gaya call nahi kar sakta,Mera,URD
+Mera data khatam ho gaya call nahi kar sakta,data,MIX
+Mera data khatam ho gaya call nahi kar sakta,khatam,URD
+Mera data khatam ho gaya call nahi kar sakta,ho,URD
+Mera data khatam ho gaya call nahi kar sakta,gaya,URD
+Mera data khatam ho gaya call nahi kar sakta,call,ENG
+Mera data khatam ho gaya call nahi kar sakta,nahi,URD
+Mera data khatam ho gaya call nahi kar sakta,kar,URD
+Mera data khatam ho gaya call nahi kar sakta,sakta,URD
+Yaar exam ka result aa gaya I am so relieved,Yaar,URD
+Yaar exam ka result aa gaya I am so relieved,exam,ENG
+Yaar exam ka result aa gaya I am so relieved,ka,URD
+Yaar exam ka result aa gaya I am so relieved,result,ENG
+Yaar exam ka result aa gaya I am so relieved,aa,URD
+Yaar exam ka result aa gaya I am so relieved,gaya,URD
+Yaar exam ka result aa gaya I am so relieved,I,ENG
+Yaar exam ka result aa gaya I am so relieved,am,ENG
+Yaar exam ka result aa gaya I am so relieved,so,ENG
+Yaar exam ka result aa gaya I am so relieved,relieved,ENG
+Abhi mood nahi hai for anything honestly,Abhi,URD
+Abhi mood nahi hai for anything honestly,mood,ENG
+Abhi mood nahi hai for anything honestly,nahi,URD
+Abhi mood nahi hai for anything honestly,hai,URD
+Abhi mood nahi hai for anything honestly,for,ENG
+Abhi mood nahi hai for anything honestly,anything,ENG
+Abhi mood nahi hai for anything honestly,honestly,ENG
+Kitni dair se wait kar rahi hoon tumhara,Kitni,URD
+Kitni dair se wait kar rahi hoon tumhara,dair,URD
+Kitni dair se wait kar rahi hoon tumhara,se,URD
+Kitni dair se wait kar rahi hoon tumhara,wait,ENG
+Kitni dair se wait kar rahi hoon tumhara,kar,URD
+Kitni dair se wait kar rahi hoon tumhara,rahi,URD
+Kitni dair se wait kar rahi hoon tumhara,hoon,URD
+Kitni dair se wait kar rahi hoon tumhara,tumhara,URD
+Bas thora sa focus karna hai final week hai ye,Bas,URD
+Bas thora sa focus karna hai final week hai ye,thora,URD
+Bas thora sa focus karna hai final week hai ye,sa,URD
+Bas thora sa focus karna hai final week hai ye,focus,ENG
+Bas thora sa focus karna hai final week hai ye,karna,URD
+Bas thora sa focus karna hai final week hai ye,hai,URD
+Bas thora sa focus karna hai final week hai ye,final,ENG
+Bas thora sa focus karna hai final week hai ye,week,ENG
+Bas thora sa focus karna hai final week hai ye,hai,URD
+Bas thora sa focus karna hai final week hai ye,ye,URD
+Mujhe lagta hai I should just sleep early tonight,Mujhe,URD
+Mujhe lagta hai I should just sleep early tonight,lagta,URD
+Mujhe lagta hai I should just sleep early tonight,hai,URD
+Mujhe lagta hai I should just sleep early tonight,I,ENG
+Mujhe lagta hai I should just sleep early tonight,should,ENG
+Mujhe lagta hai I should just sleep early tonight,just,ENG
+Mujhe lagta hai I should just sleep early tonight,sleep,ENG
+Mujhe lagta hai I should just sleep early tonight,early,ENG
+Mujhe lagta hai I should just sleep early tonight,tonight,ENG
+Kaam se break lene ka time hi nahi milta,Kaam,URD
+Kaam se break lene ka time hi nahi milta,se,URD
+Kaam se break lene ka time hi nahi milta,break,ENG
+Kaam se break lene ka time hi nahi milta,lene,URD
+Kaam se break lene ka time hi nahi milta,ka,URD
+Kaam se break lene ka time hi nahi milta,time,ENG
+Kaam se break lene ka time hi nahi milta,hi,URD
+Kaam se break lene ka time hi nahi milta,nahi,URD
+Kaam se break lene ka time hi nahi milta,milta,URD
+I think humein plan change karna chahiye ab,I,ENG
+I think humein plan change karna chahiye ab,think,ENG
+I think humein plan change karna chahiye ab,humein,URD
+I think humein plan change karna chahiye ab,plan,ENG
+I think humein plan change karna chahiye ab,change,ENG
+I think humein plan change karna chahiye ab,karna,URD
+I think humein plan change karna chahiye ab,chahiye,URD
+I think humein plan change karna chahiye ab,ab,URD
+Sab kuch theek ho jayega don't worry so much,Sab,URD
+Sab kuch theek ho jayega don't worry so much,kuch,URD
+Sab kuch theek ho jayega don't worry so much,theek,URD
+Sab kuch theek ho jayega don't worry so much,ho,URD
+Sab kuch theek ho jayega don't worry so much,jayega,URD
+Sab kuch theek ho jayega don't worry so much,don't,ENG
+Sab kuch theek ho jayega don't worry so much,worry,ENG
+Sab kuch theek ho jayega don't worry so much,so,ENG
+Sab kuch theek ho jayega don't worry so much,much,ENG
+Mera laptop charge nahi ho raha kal se,Mera,URD
+Mera laptop charge nahi ho raha kal se,laptop,ENG
+Mera laptop charge nahi ho raha kal se,charge,ENG
+Mera laptop charge nahi ho raha kal se,nahi,URD
+Mera laptop charge nahi ho raha kal se,ho,URD
+Mera laptop charge nahi ho raha kal se,raha,URD
+Mera laptop charge nahi ho raha kal se,kal,URD
+Mera laptop charge nahi ho raha kal se,se,URD
+Are you free tonight muje kuch discuss karna tha,Are,ENG
+Are you free tonight muje kuch discuss karna tha,you,ENG
+Are you free tonight muje kuch discuss karna tha,free,ENG
+Are you free tonight muje kuch discuss karna tha,tonight,ENG
+Are you free tonight muje kuch discuss karna tha,muje,URD
+Are you free tonight muje kuch discuss karna tha,kuch,URD
+Are you free tonight muje kuch discuss karna tha,discuss,ENG
+Are you free tonight muje kuch discuss karna tha,karna,URD
+Are you free tonight muje kuch discuss karna tha,tha,URD
+Yaar bohot mushkil se ye deadline meet ki hai,Yaar,URD
+Yaar bohot mushkil se ye deadline meet ki hai,bohot,URD
+Yaar bohot mushkil se ye deadline meet ki hai,mushkil,URD
+Yaar bohot mushkil se ye deadline meet ki hai,se,URD
+Yaar bohot mushkil se ye deadline meet ki hai,ye,URD
+Yaar bohot mushkil se ye deadline meet ki hai,deadline,ENG
+Yaar bohot mushkil se ye deadline meet ki hai,meet,ENG
+Yaar bohot mushkil se ye deadline meet ki hai,ki,URD
+Yaar bohot mushkil se ye deadline meet ki hai,hai,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,Mummy,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,ne,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,kaha,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,ke,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,dinner,ENG
+Mummy ne kaha ke dinner ready hai jaldi aao,ready,ENG
+Mummy ne kaha ke dinner ready hai jaldi aao,hai,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,jaldi,URD
+Mummy ne kaha ke dinner ready hai jaldi aao,aao,URD
+This weather itna suhana hai I want to go out,This,ENG
+This weather itna suhana hai I want to go out,weather,ENG
+This weather itna suhana hai I want to go out,itna,URD
+This weather itna suhana hai I want to go out,suhana,URD
+This weather itna suhana hai I want to go out,hai,URD
+This weather itna suhana hai I want to go out,I,ENG
+This weather itna suhana hai I want to go out,want,ENG
+This weather itna suhana hai I want to go out,to,ENG
+This weather itna suhana hai I want to go out,go,ENG
+This weather itna suhana hai I want to go out,out,ENG
+Kal se gym start kar raha hoon seriously this time,Kal,URD
+Kal se gym start kar raha hoon seriously this time,se,URD
+Kal se gym start kar raha hoon seriously this time,gym,ENG
+Kal se gym start kar raha hoon seriously this time,start,ENG
+Kal se gym start kar raha hoon seriously this time,kar,URD
+Kal se gym start kar raha hoon seriously this time,raha,URD
+Kal se gym start kar raha hoon seriously this time,hoon,URD
+Kal se gym start kar raha hoon seriously this time,seriously,ENG
+Kal se gym start kar raha hoon seriously this time,this,ENG
+Kal se gym start kar raha hoon seriously this time,time,ENG
+Mera mood bohot off hai kisi se baat nahi karni,Mera,URD
+Mera mood bohot off hai kisi se baat nahi karni,mood,ENG
+Mera mood bohot off hai kisi se baat nahi karni,bohot,URD
+Mera mood bohot off hai kisi se baat nahi karni,off,ENG
+Mera mood bohot off hai kisi se baat nahi karni,hai,URD
+Mera mood bohot off hai kisi se baat nahi karni,kisi,URD
+Mera mood bohot off hai kisi se baat nahi karni,se,URD
+Mera mood bohot off hai kisi se baat nahi karni,baat,URD
+Mera mood bohot off hai kisi se baat nahi karni,nahi,URD
+Mera mood bohot off hai kisi se baat nahi karni,karni,URD
+Itna sara kaam hai I don't even know where to start,Itna,URD
+Itna sara kaam hai I don't even know where to start,sara,URD
+Itna sara kaam hai I don't even know where to start,kaam,URD
+Itna sara kaam hai I don't even know where to start,hai,URD
+Itna sara kaam hai I don't even know where to start,I,ENG
+Itna sara kaam hai I don't even know where to start,don't,ENG
+Itna sara kaam hai I don't even know where to start,even,ENG
+Itna sara kaam hai I don't even know where to start,know,ENG
+Itna sara kaam hai I don't even know where to start,where,ENG
+Itna sara kaam hai I don't even know where to start,to,ENG
+Itna sara kaam hai I don't even know where to start,start,ENG
+Chalo movie dekhne chalte hain aaj shaam ko,Chalo,URD
+Chalo movie dekhne chalte hain aaj shaam ko,movie,ENG
+Chalo movie dekhne chalte hain aaj shaam ko,dekhne,URD
+Chalo movie dekhne chalte hain aaj shaam ko,chalte,URD
+Chalo movie dekhne chalte hain aaj shaam ko,hain,URD
+Chalo movie dekhne chalte hain aaj shaam ko,aaj,URD
+Chalo movie dekhne chalte hain aaj shaam ko,shaam,URD
+Chalo movie dekhne chalte hain aaj shaam ko,ko,URD
+Mujhe abhi thora sa headache ho raha hai,Mujhe,URD
+Mujhe abhi thora sa headache ho raha hai,abhi,URD
+Mujhe abhi thora sa headache ho raha hai,thora,URD
+Mujhe abhi thora sa headache ho raha hai,sa,URD
+Mujhe abhi thora sa headache ho raha hai,headache,ENG
+Mujhe abhi thora sa headache ho raha hai,ho,URD
+Mujhe abhi thora sa headache ho raha hai,raha,URD
+Mujhe abhi thora sa headache ho raha hai,hai,URD
+I promise kal se sab kuch on time karunga,I,ENG
+I promise kal se sab kuch on time karunga,promise,ENG
+I promise kal se sab kuch on time karunga,kal,URD
+I promise kal se sab kuch on time karunga,se,URD
+I promise kal se sab kuch on time karunga,sab,URD
+I promise kal se sab kuch on time karunga,kuch,URD
+I promise kal se sab kuch on time karunga,on,ENG
+I promise kal se sab kuch on time karunga,time,ENG
+I promise kal se sab kuch on time karunga,karunga,URD
+Yaar bill split kar lete hain equally,Yaar,URD
+Yaar bill split kar lete hain equally,bill,ENG
+Yaar bill split kar lete hain equally,split,ENG
+Yaar bill split kar lete hain equally,kar,URD
+Yaar bill split kar lete hain equally,lete,URD
+Yaar bill split kar lete hain equally,hain,URD
+Yaar bill split kar lete hain equally,equally,ENG
+Uska attitude bilkul change ho gaya hai recently,Uska,URD
+Uska attitude bilkul change ho gaya hai recently,attitude,ENG
+Uska attitude bilkul change ho gaya hai recently,bilkul,URD
+Uska attitude bilkul change ho gaya hai recently,change,ENG
+Uska attitude bilkul change ho gaya hai recently,ho,URD
+Uska attitude bilkul change ho gaya hai recently,gaya,URD
+Uska attitude bilkul change ho gaya hai recently,hai,URD
+Uska attitude bilkul change ho gaya hai recently,recently,ENG
+Kal ka plan cancel ho gaya kuch kaam aa gaya,Kal,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,ka,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,plan,ENG
+Kal ka plan cancel ho gaya kuch kaam aa gaya,cancel,ENG
+Kal ka plan cancel ho gaya kuch kaam aa gaya,ho,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,gaya,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,kuch,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,kaam,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,aa,URD
+Kal ka plan cancel ho gaya kuch kaam aa gaya,gaya,URD
+Honestly speaking mujhe koi idea nahi hai,Honestly,ENG
+Honestly speaking mujhe koi idea nahi hai,speaking,ENG
+Honestly speaking mujhe koi idea nahi hai,mujhe,URD
+Honestly speaking mujhe koi idea nahi hai,koi,URD
+Honestly speaking mujhe koi idea nahi hai,idea,ENG
+Honestly speaking mujhe koi idea nahi hai,nahi,URD
+Honestly speaking mujhe koi idea nahi hai,hai,URD
+Bhai mera internship confirm ho gaya finally,Bhai,URD
+Bhai mera internship confirm ho gaya finally,mera,URD
+Bhai mera internship confirm ho gaya finally,internship,ENG
+Bhai mera internship confirm ho gaya finally,confirm,ENG
+Bhai mera internship confirm ho gaya finally,ho,URD
+Bhai mera internship confirm ho gaya finally,gaya,URD
+Bhai mera internship confirm ho gaya finally,finally,ENG
+Aajkal sab kuch online ho gaya hai even groceries,Aajkal,URD
+Aajkal sab kuch online ho gaya hai even groceries,sab,URD
+Aajkal sab kuch online ho gaya hai even groceries,kuch,URD
+Aajkal sab kuch online ho gaya hai even groceries,online,ENG
+Aajkal sab kuch online ho gaya hai even groceries,ho,URD
+Aajkal sab kuch online ho gaya hai even groceries,gaya,URD
+Aajkal sab kuch online ho gaya hai even groceries,hai,URD
+Aajkal sab kuch online ho gaya hai even groceries,even,ENG
+Aajkal sab kuch online ho gaya hai even groceries,groceries,ENG
+I need to submit ye form kal tak,I,ENG
+I need to submit ye form kal tak,need,ENG
+I need to submit ye form kal tak,to,ENG
+I need to submit ye form kal tak,submit,ENG
+I need to submit ye form kal tak,ye,URD
+I need to submit ye form kal tak,form,ENG
+I need to submit ye form kal tak,kal,URD
+I need to submit ye form kal tak,tak,URD
+Ammi keh rahi thi ke early aa jao ghar,Ammi,URD
+Ammi keh rahi thi ke early aa jao ghar,keh,URD
+Ammi keh rahi thi ke early aa jao ghar,rahi,URD
+Ammi keh rahi thi ke early aa jao ghar,thi,URD
+Ammi keh rahi thi ke early aa jao ghar,ke,URD
+Ammi keh rahi thi ke early aa jao ghar,early,ENG
+Ammi keh rahi thi ke early aa jao ghar,aa,URD
+Ammi keh rahi thi ke early aa jao ghar,jao,URD
+Ammi keh rahi thi ke early aa jao ghar,ghar,URD
+Bus mein bohot rush tha today morning,Bus,ENG
+Bus mein bohot rush tha today morning,mein,URD
+Bus mein bohot rush tha today morning,bohot,URD
+Bus mein bohot rush tha today morning,rush,ENG
+Bus mein bohot rush tha today morning,tha,URD
+Bus mein bohot rush tha today morning,today,ENG
+Bus mein bohot rush tha today morning,morning,ENG
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,Kabhi,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,socha,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,nahi,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,tha,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,ke,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,aisa,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,bhi,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,ho,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,sakta,URD
+Kabhi socha nahi tha ke aisa bhi ho sakta hai,hai,URD
+Please thora jaldi karo we are getting late,Please,ENG
+Please thora jaldi karo we are getting late,thora,URD
+Please thora jaldi karo we are getting late,jaldi,URD
+Please thora jaldi karo we are getting late,karo,URD
+Please thora jaldi karo we are getting late,we,ENG
+Please thora jaldi karo we are getting late,are,ENG
+Please thora jaldi karo we are getting late,getting,ENG
+Please thora jaldi karo we are getting late,late,ENG
+Mujhe wo movie bilkul boring lagi honestly,Mujhe,URD
+Mujhe wo movie bilkul boring lagi honestly,wo,URD
+Mujhe wo movie bilkul boring lagi honestly,movie,ENG
+Mujhe wo movie bilkul boring lagi honestly,bilkul,URD
+Mujhe wo movie bilkul boring lagi honestly,boring,ENG
+Mujhe wo movie bilkul boring lagi honestly,lagi,URD
+Mujhe wo movie bilkul boring lagi honestly,honestly,ENG
+Sara din phone pe scroll karti rahi,Sara,URD
+Sara din phone pe scroll karti rahi,din,URD
+Sara din phone pe scroll karti rahi,phone,MIX
+Sara din phone pe scroll karti rahi,pe,URD
+Sara din phone pe scroll karti rahi,scroll,ENG
+Sara din phone pe scroll karti rahi,karti,URD
+Sara din phone pe scroll karti rahi,rahi,URD
+Aaj weather bohot achi hai lets go for a walk,Aaj,URD
+Aaj weather bohot achi hai lets go for a walk,weather,ENG
+Aaj weather bohot achi hai lets go for a walk,bohot,URD
+Aaj weather bohot achi hai lets go for a walk,achi,URD
+Aaj weather bohot achi hai lets go for a walk,hai,URD
+Aaj weather bohot achi hai lets go for a walk,lets,ENG
+Aaj weather bohot achi hai lets go for a walk,go,ENG
+Aaj weather bohot achi hai lets go for a walk,for,ENG
+Aaj weather bohot achi hai lets go for a walk,a,ENG
+Aaj weather bohot achi hai lets go for a walk,walk,ENG
+Mera schedule bohot tight hai is week,Mera,URD
+Mera schedule bohot tight hai is week,schedule,ENG
+Mera schedule bohot tight hai is week,bohot,URD
+Mera schedule bohot tight hai is week,tight,ENG
+Mera schedule bohot tight hai is week,hai,URD
+Mera schedule bohot tight hai is week,is,ENG
+Mera schedule bohot tight hai is week,week,ENG
+Yaar kal ka paper bohot tough tha yr,Yaar,URD
+Yaar kal ka paper bohot tough tha yr,kal,URD
+Yaar kal ka paper bohot tough tha yr,ka,URD
+Yaar kal ka paper bohot tough tha yr,paper,ENG
+Yaar kal ka paper bohot tough tha yr,bohot,URD
+Yaar kal ka paper bohot tough tha yr,tough,ENG
+Yaar kal ka paper bohot tough tha yr,tha,URD
+Yaar kal ka paper bohot tough tha yr,yr,MIX
+Chalein market chalte hain kuch shopping bhi ho jaye,Chalein,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,market,ENG
+Chalein market chalte hain kuch shopping bhi ho jaye,chalte,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,hain,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,kuch,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,shopping,ENG
+Chalein market chalte hain kuch shopping bhi ho jaye,bhi,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,ho,URD
+Chalein market chalte hain kuch shopping bhi ho jaye,jaye,URD
+I appreciate it yaar tumne meri madad ki,I,ENG
+I appreciate it yaar tumne meri madad ki,appreciate,ENG
+I appreciate it yaar tumne meri madad ki,it,ENG
+I appreciate it yaar tumne meri madad ki,yaar,URD
+I appreciate it yaar tumne meri madad ki,tumne,URD
+I appreciate it yaar tumne meri madad ki,meri,URD
+I appreciate it yaar tumne meri madad ki,madad,URD
+I appreciate it yaar tumne meri madad ki,ki,URD
+Bohot dinon se socha tha ke ye course start karun,Bohot,URD
+Bohot dinon se socha tha ke ye course start karun,dinon,URD
+Bohot dinon se socha tha ke ye course start karun,se,URD
+Bohot dinon se socha tha ke ye course start karun,socha,URD
+Bohot dinon se socha tha ke ye course start karun,tha,URD
+Bohot dinon se socha tha ke ye course start karun,ke,URD
+Bohot dinon se socha tha ke ye course start karun,ye,URD
+Bohot dinon se socha tha ke ye course start karun,course,ENG
+Bohot dinon se socha tha ke ye course start karun,start,ENG
+Bohot dinon se socha tha ke ye course start karun,karun,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,Mujhe,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,office,ENG
+Mujhe office jaldi nikalna hai traffic ki wajah se,jaldi,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,nikalna,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,hai,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,traffic,ENG
+Mujhe office jaldi nikalna hai traffic ki wajah se,ki,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,wajah,URD
+Mujhe office jaldi nikalna hai traffic ki wajah se,se,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,Kal,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,ke,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,liye,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,kuch,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,prepare,ENG
+Kal ke liye kuch prepare kar lo warna dikkat hogi,kar,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,lo,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,warna,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,dikkat,URD
+Kal ke liye kuch prepare kar lo warna dikkat hogi,hogi,URD
+Ye new phone ka camera kaafi acha hai actually,Ye,URD
+Ye new phone ka camera kaafi acha hai actually,new,ENG
+Ye new phone ka camera kaafi acha hai actually,phone,MIX
+Ye new phone ka camera kaafi acha hai actually,ka,URD
+Ye new phone ka camera kaafi acha hai actually,camera,ENG
+Ye new phone ka camera kaafi acha hai actually,kaafi,URD
+Ye new phone ka camera kaafi acha hai actually,acha,URD
+Ye new phone ka camera kaafi acha hai actually,hai,URD
+Ye new phone ka camera kaafi acha hai actually,actually,ENG
+Subha jaldi utha tha but phir bhi late ho gaya,Subha,URD
+Subha jaldi utha tha but phir bhi late ho gaya,jaldi,URD
+Subha jaldi utha tha but phir bhi late ho gaya,utha,URD
+Subha jaldi utha tha but phir bhi late ho gaya,tha,URD
+Subha jaldi utha tha but phir bhi late ho gaya,but,ENG
+Subha jaldi utha tha but phir bhi late ho gaya,phir,URD
+Subha jaldi utha tha but phir bhi late ho gaya,bhi,URD
+Subha jaldi utha tha but phir bhi late ho gaya,late,ENG
+Subha jaldi utha tha but phir bhi late ho gaya,ho,URD
+Subha jaldi utha tha but phir bhi late ho gaya,gaya,URD
+I really appreciate your help yaar bohot shukriya,I,ENG
+I really appreciate your help yaar bohot shukriya,really,ENG
+I really appreciate your help yaar bohot shukriya,appreciate,ENG
+I really appreciate your help yaar bohot shukriya,your,ENG
+I really appreciate your help yaar bohot shukriya,help,ENG
+I really appreciate your help yaar bohot shukriya,yaar,URD
+I really appreciate your help yaar bohot shukriya,bohot,URD
+I really appreciate your help yaar bohot shukriya,shukriya,URD
+Bohot arsay baad aaj achi neend aayi,Bohot,URD
+Bohot arsay baad aaj achi neend aayi,arsay,URD
+Bohot arsay baad aaj achi neend aayi,baad,URD
+Bohot arsay baad aaj achi neend aayi,aaj,URD
+Bohot arsay baad aaj achi neend aayi,achi,URD
+Bohot arsay baad aaj achi neend aayi,neend,URD
+Bohot arsay baad aaj achi neend aayi,aayi,URD
+Kaam khatam kar ke movie dekhte hain tonight,Kaam,URD
+Kaam khatam kar ke movie dekhte hain tonight,khatam,URD
+Kaam khatam kar ke movie dekhte hain tonight,kar,URD
+Kaam khatam kar ke movie dekhte hain tonight,ke,URD
+Kaam khatam kar ke movie dekhte hain tonight,movie,ENG
+Kaam khatam kar ke movie dekhte hain tonight,dekhte,URD
+Kaam khatam kar ke movie dekhte hain tonight,hain,URD
+Kaam khatam kar ke movie dekhte hain tonight,tonight,ENG
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,Mujhe,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,abhi,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,bhi,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,trust,ENG
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,nahi,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,ho,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,raha,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,ke,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,hum,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,graduate,ENG
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,ho,URD
+Mujhe abhi bhi trust nahi ho raha ke hum graduate ho gaye,gaye,URD
+Weekend pe koi plan hai kya tumhara,Weekend,ENG
+Weekend pe koi plan hai kya tumhara,pe,URD
+Weekend pe koi plan hai kya tumhara,koi,URD
+Weekend pe koi plan hai kya tumhara,plan,ENG
+Weekend pe koi plan hai kya tumhara,hai,URD
+Weekend pe koi plan hai kya tumhara,kya,URD
+Weekend pe koi plan hai kya tumhara,tumhara,URD
+Bhai mujhe abhi thora space chahiye please,Bhai,URD
+Bhai mujhe abhi thora space chahiye please,mujhe,URD
+Bhai mujhe abhi thora space chahiye please,abhi,URD
+Bhai mujhe abhi thora space chahiye please,thora,URD
+Bhai mujhe abhi thora space chahiye please,space,ENG
+Bhai mujhe abhi thora space chahiye please,chahiye,URD
+Bhai mujhe abhi thora space chahiye please,please,ENG
+Kal se diet start kar raha hoon for real this time,Kal,URD
+Kal se diet start kar raha hoon for real this time,se,URD
+Kal se diet start kar raha hoon for real this time,diet,ENG
+Kal se diet start kar raha hoon for real this time,start,ENG
+Kal se diet start kar raha hoon for real this time,kar,URD
+Kal se diet start kar raha hoon for real this time,raha,URD
+Kal se diet start kar raha hoon for real this time,hoon,URD
+Kal se diet start kar raha hoon for real this time,for,ENG
+Kal se diet start kar raha hoon for real this time,real,ENG
+Kal se diet start kar raha hoon for real this time,this,ENG
+Kal se diet start kar raha hoon for real this time,time,ENG
+Aunty ne pucha tha ke shaadi kab kar rahe ho,Aunty,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,ne,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,pucha,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,tha,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,ke,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,shaadi,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,kab,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,kar,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,rahe,URD
+Aunty ne pucha tha ke shaadi kab kar rahe ho,ho,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,I,ENG
+I can't focus aaj kaam mein bilkul dil nahi lag raha,can't,ENG
+I can't focus aaj kaam mein bilkul dil nahi lag raha,focus,ENG
+I can't focus aaj kaam mein bilkul dil nahi lag raha,aaj,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,kaam,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,mein,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,bilkul,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,dil,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,nahi,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,lag,URD
+I can't focus aaj kaam mein bilkul dil nahi lag raha,raha,URD
+Yaar office mein aajkal bohot politics chal rahi hai,Yaar,URD
+Yaar office mein aajkal bohot politics chal rahi hai,office,ENG
+Yaar office mein aajkal bohot politics chal rahi hai,mein,URD
+Yaar office mein aajkal bohot politics chal rahi hai,aajkal,URD
+Yaar office mein aajkal bohot politics chal rahi hai,bohot,URD
+Yaar office mein aajkal bohot politics chal rahi hai,politics,ENG
+Yaar office mein aajkal bohot politics chal rahi hai,chal,URD
+Yaar office mein aajkal bohot politics chal rahi hai,rahi,URD
+Yaar office mein aajkal bohot politics chal rahi hai,hai,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,Mujhe,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,pata,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,tha,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,ke,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,tum,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,late,ENG
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,aao,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,gay,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,hamesha,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,ki,URD
+Mujhe pata tha ke tum late aao gay hamesha ki tarah,tarah,URD
+Bas ab bohot ho gaya I need a proper vacation,Bas,URD
+Bas ab bohot ho gaya I need a proper vacation,ab,URD
+Bas ab bohot ho gaya I need a proper vacation,bohot,URD
+Bas ab bohot ho gaya I need a proper vacation,ho,URD
+Bas ab bohot ho gaya I need a proper vacation,gaya,URD
+Bas ab bohot ho gaya I need a proper vacation,I,ENG
+Bas ab bohot ho gaya I need a proper vacation,need,ENG
+Bas ab bohot ho gaya I need a proper vacation,a,ENG
+Bas ab bohot ho gaya I need a proper vacation,proper,ENG
+Bas ab bohot ho gaya I need a proper vacation,vacation,ENG
+Ye discount sirf online available hai stores mein nahi,Ye,URD
+Ye discount sirf online available hai stores mein nahi,discount,ENG
+Ye discount sirf online available hai stores mein nahi,sirf,URD
+Ye discount sirf online available hai stores mein nahi,online,ENG
+Ye discount sirf online available hai stores mein nahi,available,ENG
+Ye discount sirf online available hai stores mein nahi,hai,URD
+Ye discount sirf online available hai stores mein nahi,stores,ENG
+Ye discount sirf online available hai stores mein nahi,mein,URD
+Ye discount sirf online available hai stores mein nahi,nahi,URD
+Mera pura weekend assignments mein hi guzar gaya,Mera,URD
+Mera pura weekend assignments mein hi guzar gaya,pura,URD
+Mera pura weekend assignments mein hi guzar gaya,weekend,ENG
+Mera pura weekend assignments mein hi guzar gaya,assignments,ENG
+Mera pura weekend assignments mein hi guzar gaya,mein,URD
+Mera pura weekend assignments mein hi guzar gaya,hi,URD
+Mera pura weekend assignments mein hi guzar gaya,guzar,URD
+Mera pura weekend assignments mein hi guzar gaya,gaya,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,Yaar,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,tumhe,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,pata,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,bhi,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,hai,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,kitna,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,important,ENG
+Yaar tumhe pata bhi hai kitna important ye meeting hai,ye,URD
+Yaar tumhe pata bhi hai kitna important ye meeting hai,meeting,ENG
+Yaar tumhe pata bhi hai kitna important ye meeting hai,hai,URD
+Bijli chali gayi thi so I couldn't finish the report,Bijli,URD
+Bijli chali gayi thi so I couldn't finish the report,chali,URD
+Bijli chali gayi thi so I couldn't finish the report,gayi,URD
+Bijli chali gayi thi so I couldn't finish the report,thi,URD
+Bijli chali gayi thi so I couldn't finish the report,so,ENG
+Bijli chali gayi thi so I couldn't finish the report,I,ENG
+Bijli chali gayi thi so I couldn't finish the report,couldn't,ENG
+Bijli chali gayi thi so I couldn't finish the report,finish,ENG
+Bijli chali gayi thi so I couldn't finish the report,the,ENG
+Bijli chali gayi thi so I couldn't finish the report,report,ENG
+Ye kaam mujhse nahi hoga honestly speaking,Ye,URD
+Ye kaam mujhse nahi hoga honestly speaking,kaam,URD
+Ye kaam mujhse nahi hoga honestly speaking,mujhse,URD
+Ye kaam mujhse nahi hoga honestly speaking,nahi,URD
+Ye kaam mujhse nahi hoga honestly speaking,hoga,URD
+Ye kaam mujhse nahi hoga honestly speaking,honestly,ENG
+Ye kaam mujhse nahi hoga honestly speaking,speaking,ENG
+Uski shaadi mein hum sab ne khoob enjoy kiya,Uski,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,shaadi,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,mein,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,hum,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,sab,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,ne,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,khoob,URD
+Uski shaadi mein hum sab ne khoob enjoy kiya,enjoy,ENG
+Uski shaadi mein hum sab ne khoob enjoy kiya,kiya,URD
+I told you already ye plan kaam nahi karega,I,ENG
+I told you already ye plan kaam nahi karega,told,ENG
+I told you already ye plan kaam nahi karega,you,ENG
+I told you already ye plan kaam nahi karega,already,ENG
+I told you already ye plan kaam nahi karega,ye,URD
+I told you already ye plan kaam nahi karega,plan,ENG
+I told you already ye plan kaam nahi karega,kaam,URD
+I told you already ye plan kaam nahi karega,nahi,URD
+I told you already ye plan kaam nahi karega,karega,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,Kal,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,ki,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,flight,ENG
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,delay,ENG
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,ho,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,gayi,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,thi,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,kaafi,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,ghanton,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,ke,URD
+Kal ki flight delay ho gayi thi kaafi ghanton ke liye,liye,URD
+Aap ka order confirm ho gaya hai thank you,Aap,URD
+Aap ka order confirm ho gaya hai thank you,ka,URD
+Aap ka order confirm ho gaya hai thank you,order,ENG
+Aap ka order confirm ho gaya hai thank you,confirm,ENG
+Aap ka order confirm ho gaya hai thank you,ho,URD
+Aap ka order confirm ho gaya hai thank you,gaya,URD
+Aap ka order confirm ho gaya hai thank you,hai,URD
+Aap ka order confirm ho gaya hai thank you,thank,ENG
+Aap ka order confirm ho gaya hai thank you,you,ENG
+Bhai kya scene hai aaj kal tum dikhte hi nahi,Bhai,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,kya,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,scene,ENG
+Bhai kya scene hai aaj kal tum dikhte hi nahi,hai,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,aaj,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,kal,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,tum,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,dikhte,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,hi,URD
+Bhai kya scene hai aaj kal tum dikhte hi nahi,nahi,URD
+Mera confidence thora low hai aaj kal honestly,Mera,URD
+Mera confidence thora low hai aaj kal honestly,confidence,ENG
+Mera confidence thora low hai aaj kal honestly,thora,URD
+Mera confidence thora low hai aaj kal honestly,low,ENG
+Mera confidence thora low hai aaj kal honestly,hai,URD
+Mera confidence thora low hai aaj kal honestly,aaj,URD
+Mera confidence thora low hai aaj kal honestly,kal,URD
+Mera confidence thora low hai aaj kal honestly,honestly,ENG
+I just want peace of mind bas aur kuch nahi chahiye,I,ENG
+I just want peace of mind bas aur kuch nahi chahiye,just,ENG
+I just want peace of mind bas aur kuch nahi chahiye,want,ENG
+I just want peace of mind bas aur kuch nahi chahiye,peace,ENG
+I just want peace of mind bas aur kuch nahi chahiye,of,ENG
+I just want peace of mind bas aur kuch nahi chahiye,mind,ENG
+I just want peace of mind bas aur kuch nahi chahiye,bas,URD
+I just want peace of mind bas aur kuch nahi chahiye,aur,URD
+I just want peace of mind bas aur kuch nahi chahiye,kuch,URD
+I just want peace of mind bas aur kuch nahi chahiye,nahi,URD
+I just want peace of mind bas aur kuch nahi chahiye,chahiye,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,Uska,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,behavior,ENG
+Uska behavior mujhe bilkul acha nahi laga aaj,mujhe,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,bilkul,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,acha,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,nahi,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,laga,URD
+Uska behavior mujhe bilkul acha nahi laga aaj,aaj,URD
+Kal se sab kuch normal ho jayega hopefully,Kal,URD
+Kal se sab kuch normal ho jayega hopefully,se,URD
+Kal se sab kuch normal ho jayega hopefully,sab,URD
+Kal se sab kuch normal ho jayega hopefully,kuch,URD
+Kal se sab kuch normal ho jayega hopefully,normal,ENG
+Kal se sab kuch normal ho jayega hopefully,ho,URD
+Kal se sab kuch normal ho jayega hopefully,jayega,URD
+Kal se sab kuch normal ho jayega hopefully,hopefully,ENG
+Mujhe bilkul yaad nahi ke maine kya kaha tha,Mujhe,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,bilkul,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,yaad,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,nahi,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,ke,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,maine,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,kya,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,kaha,URD
+Mujhe bilkul yaad nahi ke maine kya kaha tha,tha,URD
+This semester bohot heavy hai courses ki wajah se,This,ENG
+This semester bohot heavy hai courses ki wajah se,semester,ENG
+This semester bohot heavy hai courses ki wajah se,bohot,URD
+This semester bohot heavy hai courses ki wajah se,heavy,ENG
+This semester bohot heavy hai courses ki wajah se,hai,URD
+This semester bohot heavy hai courses ki wajah se,courses,ENG
+This semester bohot heavy hai courses ki wajah se,ki,URD
+This semester bohot heavy hai courses ki wajah se,wajah,URD
+This semester bohot heavy hai courses ki wajah se,se,URD
+Aaj mera mood nahi hai for anything,Aaj,URD
+Aaj mera mood nahi hai for anything,mera,URD
+Aaj mera mood nahi hai for anything,mood,ENG
+Aaj mera mood nahi hai for anything,nahi,URD
+Aaj mera mood nahi hai for anything,hai,URD
+Aaj mera mood nahi hai for anything,for,ENG
+Aaj mera mood nahi hai for anything,anything,ENG
+Chalo abhi nikalte hain warna traffic mein phas jayenge,Chalo,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,abhi,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,nikalte,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,hain,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,warna,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,traffic,ENG
+Chalo abhi nikalte hain warna traffic mein phas jayenge,mein,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,phas,URD
+Chalo abhi nikalte hain warna traffic mein phas jayenge,jayenge,URD
+Ye job bohot demanding hai but I love the work,Ye,URD
+Ye job bohot demanding hai but I love the work,job,ENG
+Ye job bohot demanding hai but I love the work,bohot,URD
+Ye job bohot demanding hai but I love the work,demanding,ENG
+Ye job bohot demanding hai but I love the work,hai,URD
+Ye job bohot demanding hai but I love the work,but,ENG
+Ye job bohot demanding hai but I love the work,I,ENG
+Ye job bohot demanding hai but I love the work,love,ENG
+Ye job bohot demanding hai but I love the work,the,ENG
+Ye job bohot demanding hai but I love the work,work,ENG
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,Mujhe,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,ye,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,samajh,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,nahi,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,aata,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,ke,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,log,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,itna,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,judgmental,ENG
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,kyun,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,hote,URD
+Mujhe ye samajh nahi aata ke log itna judgmental kyun hote hain,hain,URD
+Kal party mein bohot fun aaya sab log the wahan,Kal,URD
+Kal party mein bohot fun aaya sab log the wahan,party,ENG
+Kal party mein bohot fun aaya sab log the wahan,mein,URD
+Kal party mein bohot fun aaya sab log the wahan,bohot,URD
+Kal party mein bohot fun aaya sab log the wahan,fun,ENG
+Kal party mein bohot fun aaya sab log the wahan,aaya,URD
+Kal party mein bohot fun aaya sab log the wahan,sab,URD
+Kal party mein bohot fun aaya sab log the wahan,log,URD
+Kal party mein bohot fun aaya sab log the wahan,the,URD
+Kal party mein bohot fun aaya sab log the wahan,wahan,URD
+I can't deal with this stress anymore honestly,I,ENG
+I can't deal with this stress anymore honestly,can't,ENG
+I can't deal with this stress anymore honestly,deal,ENG
+I can't deal with this stress anymore honestly,with,ENG
+I can't deal with this stress anymore honestly,this,ENG
+I can't deal with this stress anymore honestly,stress,ENG
+I can't deal with this stress anymore honestly,anymore,ENG
+I can't deal with this stress anymore honestly,honestly,ENG
+Mujhe abhi bhi wo din yaad hai jab hum mile the,Mujhe,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,abhi,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,bhi,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,wo,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,din,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,yaad,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,hai,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,jab,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,hum,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,mile,URD
+Mujhe abhi bhi wo din yaad hai jab hum mile the,the,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,Yaar,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,naya,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,semester,ENG
+Yaar naya semester start ho gaya excited feel nahi ho raha,start,ENG
+Yaar naya semester start ho gaya excited feel nahi ho raha,ho,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,gaya,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,excited,ENG
+Yaar naya semester start ho gaya excited feel nahi ho raha,feel,ENG
+Yaar naya semester start ho gaya excited feel nahi ho raha,nahi,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,ho,URD
+Yaar naya semester start ho gaya excited feel nahi ho raha,raha,URD
+Kal ka episode dekha kya bohot dramatic tha,Kal,URD
+Kal ka episode dekha kya bohot dramatic tha,ka,URD
+Kal ka episode dekha kya bohot dramatic tha,episode,ENG
+Kal ka episode dekha kya bohot dramatic tha,dekha,URD
+Kal ka episode dekha kya bohot dramatic tha,kya,URD
+Kal ka episode dekha kya bohot dramatic tha,bohot,URD
+Kal ka episode dekha kya bohot dramatic tha,dramatic,ENG
+Kal ka episode dekha kya bohot dramatic tha,tha,URD
+Bhai relax karo sab kuch theek ho jayega eventually,Bhai,URD
+Bhai relax karo sab kuch theek ho jayega eventually,relax,ENG
+Bhai relax karo sab kuch theek ho jayega eventually,karo,URD
+Bhai relax karo sab kuch theek ho jayega eventually,sab,URD
+Bhai relax karo sab kuch theek ho jayega eventually,kuch,URD
+Bhai relax karo sab kuch theek ho jayega eventually,theek,URD
+Bhai relax karo sab kuch theek ho jayega eventually,ho,URD
+Bhai relax karo sab kuch theek ho jayega eventually,jayega,URD
+Bhai relax karo sab kuch theek ho jayega eventually,eventually,ENG
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,Mujhe,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,office,ENG
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,se,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,early,ENG
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,nikalna,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,hai,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,kal,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,doctor,ENG
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,ke,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,pass,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,jana,URD
+Mujhe office se early nikalna hai kal doctor ke pass jana hai,hai,URD
+This coffee bohot strong hai but I needed it today,This,ENG
+This coffee bohot strong hai but I needed it today,coffee,ENG
+This coffee bohot strong hai but I needed it today,bohot,URD
+This coffee bohot strong hai but I needed it today,strong,ENG
+This coffee bohot strong hai but I needed it today,hai,URD
+This coffee bohot strong hai but I needed it today,but,ENG
+This coffee bohot strong hai but I needed it today,I,ENG
+This coffee bohot strong hai but I needed it today,needed,ENG
+This coffee bohot strong hai but I needed it today,it,ENG
+This coffee bohot strong hai but I needed it today,today,ENG
+Kal se routine follow karna zaroori hai warna sab bigar jayega,Kal,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,se,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,routine,ENG
+Kal se routine follow karna zaroori hai warna sab bigar jayega,follow,ENG
+Kal se routine follow karna zaroori hai warna sab bigar jayega,karna,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,zaroori,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,hai,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,warna,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,sab,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,bigar,URD
+Kal se routine follow karna zaroori hai warna sab bigar jayega,jayega,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,Bhai,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,mujhe,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,ye,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,whole,ENG
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,situation,ENG
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,bohot,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,confusing,ENG
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,lag,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,rahi,URD
+Bhai mujhe ye whole situation bohot confusing lag rahi hai,hai,URD
+Aaj ka lecture bohot boring tha honestly I almost slept,Aaj,URD
+Aaj ka lecture bohot boring tha honestly I almost slept,ka,URD
+Aaj ka lecture bohot boring tha honestly I almost slept,lecture,ENG
+Aaj ka lecture bohot boring tha honestly I almost slept,bohot,URD
+Aaj ka lecture bohot boring tha honestly I almost slept,boring,ENG
+Aaj ka lecture bohot boring tha honestly I almost slept,tha,URD
+Aaj ka lecture bohot boring tha honestly I almost slept,honestly,ENG
+Aaj ka lecture bohot boring tha honestly I almost slept,I,ENG
+Aaj ka lecture bohot boring tha honestly I almost slept,almost,ENG
+Aaj ka lecture bohot boring tha honestly I almost slept,slept,ENG
+Yaar mujhe abhi thori der akela chorho please,Yaar,URD
+Yaar mujhe abhi thori der akela chorho please,mujhe,URD
+Yaar mujhe abhi thori der akela chorho please,abhi,URD
+Yaar mujhe abhi thori der akela chorho please,thori,URD
+Yaar mujhe abhi thori der akela chorho please,der,URD
+Yaar mujhe abhi thori der akela chorho please,akela,URD
+Yaar mujhe abhi thori der akela chorho please,chorho,URD
+Yaar mujhe abhi thori der akela chorho please,please,ENG
+Mera internet phir se down ho gaya kaam rukk gaya,Mera,URD
+Mera internet phir se down ho gaya kaam rukk gaya,internet,MIX
+Mera internet phir se down ho gaya kaam rukk gaya,phir,URD
+Mera internet phir se down ho gaya kaam rukk gaya,se,URD
+Mera internet phir se down ho gaya kaam rukk gaya,down,ENG
+Mera internet phir se down ho gaya kaam rukk gaya,ho,URD
+Mera internet phir se down ho gaya kaam rukk gaya,gaya,URD
+Mera internet phir se down ho gaya kaam rukk gaya,kaam,URD
+Mera internet phir se down ho gaya kaam rukk gaya,rukk,URD
+Mera internet phir se down ho gaya kaam rukk gaya,gaya,URD
+I genuinely think humein break lena chahiye is hafte,I,ENG
+I genuinely think humein break lena chahiye is hafte,genuinely,ENG
+I genuinely think humein break lena chahiye is hafte,think,ENG
+I genuinely think humein break lena chahiye is hafte,humein,URD
+I genuinely think humein break lena chahiye is hafte,break,ENG
+I genuinely think humein break lena chahiye is hafte,lena,URD
+I genuinely think humein break lena chahiye is hafte,chahiye,URD
+I genuinely think humein break lena chahiye is hafte,is,URD
+I genuinely think humein break lena chahiye is hafte,hafte,URD
+Kal shaam ko free ho tum kahin chalein kya,Kal,URD
+Kal shaam ko free ho tum kahin chalein kya,shaam,URD
+Kal shaam ko free ho tum kahin chalein kya,ko,URD
+Kal shaam ko free ho tum kahin chalein kya,free,ENG
+Kal shaam ko free ho tum kahin chalein kya,ho,URD
+Kal shaam ko free ho tum kahin chalein kya,tum,URD
+Kal shaam ko free ho tum kahin chalein kya,kahin,URD
+Kal shaam ko free ho tum kahin chalein kya,chalein,URD
+Kal shaam ko free ho tum kahin chalein kya,kya,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,Mujhe,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,abhi,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,realize,ENG
+Mujhe abhi realize hua ke maine file save hi nahi ki,hua,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,ke,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,maine,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,file,ENG
+Mujhe abhi realize hua ke maine file save hi nahi ki,save,ENG
+Mujhe abhi realize hua ke maine file save hi nahi ki,hi,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,nahi,URD
+Mujhe abhi realize hua ke maine file save hi nahi ki,ki,URD
+Bhai project deadline extend ho gayi thank god,Bhai,URD
+Bhai project deadline extend ho gayi thank god,project,ENG
+Bhai project deadline extend ho gayi thank god,deadline,ENG
+Bhai project deadline extend ho gayi thank god,extend,ENG
+Bhai project deadline extend ho gayi thank god,ho,URD
+Bhai project deadline extend ho gayi thank god,gayi,URD
+Bhai project deadline extend ho gayi thank god,thank,ENG
+Bhai project deadline extend ho gayi thank god,god,ENG
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,Yaar,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,itni,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,saari,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,notifications,ENG
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,aa,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,rahi,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,hain,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,phone,MIX
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,band,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,kar,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,deta,URD
+Yaar itni saari notifications aa rahi hain phone band kar deta hoon,hoon,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,Mummy,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,ne,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,dopher,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,ko,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,biryani,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,banai,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,thi,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,bohot,URD
+Mummy ne dopher ko biryani banai thi bohot tasty thi,tasty,ENG
+Mummy ne dopher ko biryani banai thi bohot tasty thi,thi,URD
+I am not in the mood for a debate abhi,I,ENG
+I am not in the mood for a debate abhi,am,ENG
+I am not in the mood for a debate abhi,not,ENG
+I am not in the mood for a debate abhi,in,ENG
+I am not in the mood for a debate abhi,the,ENG
+I am not in the mood for a debate abhi,mood,ENG
+I am not in the mood for a debate abhi,for,ENG
+I am not in the mood for a debate abhi,a,ENG
+I am not in the mood for a debate abhi,debate,ENG
+I am not in the mood for a debate abhi,abhi,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,Kal,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,raat,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,ko,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,bijli,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,bar,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,bar,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,ja,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,rahi,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,thi,URD
+Kal raat ko bijli bar bar ja rahi thi so annoying,so,ENG
+Kal raat ko bijli bar bar ja rahi thi so annoying,annoying,ENG
+Bhai tumhara plan kaafi solid lag raha hai actually,Bhai,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,tumhara,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,plan,ENG
+Bhai tumhara plan kaafi solid lag raha hai actually,kaafi,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,solid,ENG
+Bhai tumhara plan kaafi solid lag raha hai actually,lag,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,raha,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,hai,URD
+Bhai tumhara plan kaafi solid lag raha hai actually,actually,ENG
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,Mujhe,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,office,ENG
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,ka,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,environment,ENG
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,aajkal,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,bilkul,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,acha,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,nahi,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,lag,URD
+Mujhe office ka environment aajkal bilkul acha nahi lag raha,raha,URD
+Aaj ka schedule kaafi packed hai back to back classes,Aaj,URD
+Aaj ka schedule kaafi packed hai back to back classes,ka,URD
+Aaj ka schedule kaafi packed hai back to back classes,schedule,ENG
+Aaj ka schedule kaafi packed hai back to back classes,kaafi,URD
+Aaj ka schedule kaafi packed hai back to back classes,packed,ENG
+Aaj ka schedule kaafi packed hai back to back classes,hai,URD
+Aaj ka schedule kaafi packed hai back to back classes,back,ENG
+Aaj ka schedule kaafi packed hai back to back classes,to,ENG
+Aaj ka schedule kaafi packed hai back to back classes,back,ENG
+Aaj ka schedule kaafi packed hai back to back classes,classes,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,Bhai,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,mujhe,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,pata,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,hai,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,kaam,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,pending,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,hai,URD
+Bhai mujhe pata hai kaam pending hai but I am too tired,but,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,I,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,am,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,too,ENG
+Bhai mujhe pata hai kaam pending hai but I am too tired,tired,ENG
+Sara ghar saaf kar diya finally feels so good now,Sara,URD
+Sara ghar saaf kar diya finally feels so good now,ghar,URD
+Sara ghar saaf kar diya finally feels so good now,saaf,URD
+Sara ghar saaf kar diya finally feels so good now,kar,URD
+Sara ghar saaf kar diya finally feels so good now,diya,URD
+Sara ghar saaf kar diya finally feels so good now,finally,ENG
+Sara ghar saaf kar diya finally feels so good now,feels,ENG
+Sara ghar saaf kar diya finally feels so good now,so,ENG
+Sara ghar saaf kar diya finally feels so good now,good,ENG
+Sara ghar saaf kar diya finally feels so good now,now,ENG
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,Mujhe,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,wo,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,restaurant,ENG
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,ka,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,khana,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,bilkul,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,pasand,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,nahi,URD
+Mujhe wo restaurant ka khana bilkul pasand nahi aya,aya,URD
+Bhai signal hi nahi aa raha call drop ho gayi,Bhai,URD
+Bhai signal hi nahi aa raha call drop ho gayi,signal,ENG
+Bhai signal hi nahi aa raha call drop ho gayi,hi,URD
+Bhai signal hi nahi aa raha call drop ho gayi,nahi,URD
+Bhai signal hi nahi aa raha call drop ho gayi,aa,URD
+Bhai signal hi nahi aa raha call drop ho gayi,raha,URD
+Bhai signal hi nahi aa raha call drop ho gayi,call,ENG
+Bhai signal hi nahi aa raha call drop ho gayi,drop,ENG
+Bhai signal hi nahi aa raha call drop ho gayi,ho,URD
+Bhai signal hi nahi aa raha call drop ho gayi,gayi,URD
+Kal ka function bohot achi tarah organize hua tha,Kal,URD
+Kal ka function bohot achi tarah organize hua tha,ka,URD
+Kal ka function bohot achi tarah organize hua tha,function,ENG
+Kal ka function bohot achi tarah organize hua tha,bohot,URD
+Kal ka function bohot achi tarah organize hua tha,achi,URD
+Kal ka function bohot achi tarah organize hua tha,tarah,URD
+Kal ka function bohot achi tarah organize hua tha,organize,ENG
+Kal ka function bohot achi tarah organize hua tha,hua,URD
+Kal ka function bohot achi tarah organize hua tha,tha,URD
+I just need a proper nap mujhe neend aa rahi hai,I,ENG
+I just need a proper nap mujhe neend aa rahi hai,just,ENG
+I just need a proper nap mujhe neend aa rahi hai,need,ENG
+I just need a proper nap mujhe neend aa rahi hai,a,ENG
+I just need a proper nap mujhe neend aa rahi hai,proper,ENG
+I just need a proper nap mujhe neend aa rahi hai,nap,ENG
+I just need a proper nap mujhe neend aa rahi hai,mujhe,URD
+I just need a proper nap mujhe neend aa rahi hai,neend,URD
+I just need a proper nap mujhe neend aa rahi hai,aa,URD
+I just need a proper nap mujhe neend aa rahi hai,rahi,URD
+I just need a proper nap mujhe neend aa rahi hai,hai,URD
+Bhai class time pe start hui thi you missed the intro,Bhai,URD
+Bhai class time pe start hui thi you missed the intro,class,ENG
+Bhai class time pe start hui thi you missed the intro,time,ENG
+Bhai class time pe start hui thi you missed the intro,pe,URD
+Bhai class time pe start hui thi you missed the intro,start,ENG
+Bhai class time pe start hui thi you missed the intro,hui,URD
+Bhai class time pe start hui thi you missed the intro,thi,URD
+Bhai class time pe start hui thi you missed the intro,you,ENG
+Bhai class time pe start hui thi you missed the intro,missed,ENG
+Bhai class time pe start hui thi you missed the intro,the,ENG
+Bhai class time pe start hui thi you missed the intro,intro,ENG
+Mujhe aaj bohot achi news mili I got the internship,Mujhe,URD
+Mujhe aaj bohot achi news mili I got the internship,aaj,URD
+Mujhe aaj bohot achi news mili I got the internship,bohot,URD
+Mujhe aaj bohot achi news mili I got the internship,achi,URD
+Mujhe aaj bohot achi news mili I got the internship,news,ENG
+Mujhe aaj bohot achi news mili I got the internship,mili,URD
+Mujhe aaj bohot achi news mili I got the internship,I,ENG
+Mujhe aaj bohot achi news mili I got the internship,got,ENG
+Mujhe aaj bohot achi news mili I got the internship,the,ENG
+Mujhe aaj bohot achi news mili I got the internship,internship,ENG
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,Yaar,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,tumhara,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,mood,ENG
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,aaj,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,kuch,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,off,ENG
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,lag,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,raha,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,hai,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,kya,URD
+Yaar tumhara mood aaj kuch off lag raha hai kya hua,hua,URD
+Mujhe results ka bohot tension ho raha hai abhi se,Mujhe,URD
+Mujhe results ka bohot tension ho raha hai abhi se,results,ENG
+Mujhe results ka bohot tension ho raha hai abhi se,ka,URD
+Mujhe results ka bohot tension ho raha hai abhi se,bohot,URD
+Mujhe results ka bohot tension ho raha hai abhi se,tension,ENG
+Mujhe results ka bohot tension ho raha hai abhi se,ho,URD
+Mujhe results ka bohot tension ho raha hai abhi se,raha,URD
+Mujhe results ka bohot tension ho raha hai abhi se,hai,URD
+Mujhe results ka bohot tension ho raha hai abhi se,abhi,URD
+Mujhe results ka bohot tension ho raha hai abhi se,se,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,Bhai,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,kal,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,ki,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,flight,ENG
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,miss,ENG
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,ho,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,gayi,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,thi,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,major,ENG
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,delay,ENG
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,ki,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,wajah,URD
+Bhai kal ki flight miss ho gayi thi major delay ki wajah se,se,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,I,ENG
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,feel,ENG
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,so,ENG
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,lazy,ENG
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,today,ENG
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,kuch,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,bhi,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,karne,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,ka,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,dil,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,nahi,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,kar,URD
+I feel so lazy today kuch bhi karne ka dil nahi kar raha,raha,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,Bhai,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,aaj,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,ka,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,weather,ENG
+Bhai aaj ka weather bilkul perfect hai for a drive,bilkul,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,perfect,ENG
+Bhai aaj ka weather bilkul perfect hai for a drive,hai,URD
+Bhai aaj ka weather bilkul perfect hai for a drive,for,ENG
+Bhai aaj ka weather bilkul perfect hai for a drive,a,ENG
+Bhai aaj ka weather bilkul perfect hai for a drive,drive,ENG
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,Mujhe,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,abhi,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,bhi,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,wo,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,purani,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,baatein,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,yaad,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,aati,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,hain,URD
+Mujhe abhi bhi wo purani baatein yaad aati hain sometimes,sometimes,ENG
+Kal se sab kuch sort out ho jayega hopefully yaar,Kal,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,se,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,sab,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,kuch,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,sort,ENG
+Kal se sab kuch sort out ho jayega hopefully yaar,out,ENG
+Kal se sab kuch sort out ho jayega hopefully yaar,ho,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,jayega,URD
+Kal se sab kuch sort out ho jayega hopefully yaar,hopefully,ENG
+Kal se sab kuch sort out ho jayega hopefully yaar,yaar,URD
+I really needed this vacation itna thak gaya tha main,I,ENG
+I really needed this vacation itna thak gaya tha main,really,ENG
+I really needed this vacation itna thak gaya tha main,needed,ENG
+I really needed this vacation itna thak gaya tha main,this,ENG
+I really needed this vacation itna thak gaya tha main,vacation,ENG
+I really needed this vacation itna thak gaya tha main,itna,URD
+I really needed this vacation itna thak gaya tha main,thak,URD
+I really needed this vacation itna thak gaya tha main,gaya,URD
+I really needed this vacation itna thak gaya tha main,tha,URD
+I really needed this vacation itna thak gaya tha main,main,URD
+Bhai tumhe kal ki party ki details mili kya,Bhai,URD
+Bhai tumhe kal ki party ki details mili kya,tumhe,URD
+Bhai tumhe kal ki party ki details mili kya,kal,URD
+Bhai tumhe kal ki party ki details mili kya,ki,URD
+Bhai tumhe kal ki party ki details mili kya,party,ENG
+Bhai tumhe kal ki party ki details mili kya,ki,URD
+Bhai tumhe kal ki party ki details mili kya,details,ENG
+Bhai tumhe kal ki party ki details mili kya,mili,URD
+Bhai tumhe kal ki party ki details mili kya,kya,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,Mera,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,mind,ENG
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,abhi,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,bilkul,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,kaam,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,nahi,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,kar,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,raha,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,exam,ENG
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,ki,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,wajah,URD
+Mera mind abhi bilkul kaam nahi kar raha exam ki wajah se,se,URD
+Yaar mujhe lagta hai we should just cancel the trip,Yaar,URD
+Yaar mujhe lagta hai we should just cancel the trip,mujhe,URD
+Yaar mujhe lagta hai we should just cancel the trip,lagta,URD
+Yaar mujhe lagta hai we should just cancel the trip,hai,URD
+Yaar mujhe lagta hai we should just cancel the trip,we,ENG
+Yaar mujhe lagta hai we should just cancel the trip,should,ENG
+Yaar mujhe lagta hai we should just cancel the trip,just,ENG
+Yaar mujhe lagta hai we should just cancel the trip,cancel,ENG
+Yaar mujhe lagta hai we should just cancel the trip,the,ENG
+Yaar mujhe lagta hai we should just cancel the trip,trip,ENG
+Kal subah jaldi utho hum log trekking pe jayenge,Kal,URD
+Kal subah jaldi utho hum log trekking pe jayenge,subah,URD
+Kal subah jaldi utho hum log trekking pe jayenge,jaldi,URD
+Kal subah jaldi utho hum log trekking pe jayenge,utho,URD
+Kal subah jaldi utho hum log trekking pe jayenge,hum,URD
+Kal subah jaldi utho hum log trekking pe jayenge,log,URD
+Kal subah jaldi utho hum log trekking pe jayenge,trekking,ENG
+Kal subah jaldi utho hum log trekking pe jayenge,pe,URD
+Kal subah jaldi utho hum log trekking pe jayenge,jayenge,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,Bhai,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,maine,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,socha,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,nahi,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,tha,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,ke,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,tum,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,itna,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,support,ENG
+Bhai maine socha nahi tha ke tum itna support karo gay,karo,URD
+Bhai maine socha nahi tha ke tum itna support karo gay,gay,URD
+This traffic jam khatam hi nahi ho raha aaj tou,This,ENG
+This traffic jam khatam hi nahi ho raha aaj tou,traffic,ENG
+This traffic jam khatam hi nahi ho raha aaj tou,jam,ENG
+This traffic jam khatam hi nahi ho raha aaj tou,khatam,URD
+This traffic jam khatam hi nahi ho raha aaj tou,hi,URD
+This traffic jam khatam hi nahi ho raha aaj tou,nahi,URD
+This traffic jam khatam hi nahi ho raha aaj tou,ho,URD
+This traffic jam khatam hi nahi ho raha aaj tou,raha,URD
+This traffic jam khatam hi nahi ho raha aaj tou,aaj,URD
+This traffic jam khatam hi nahi ho raha aaj tou,tou,URD

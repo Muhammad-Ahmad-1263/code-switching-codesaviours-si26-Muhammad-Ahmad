@@ -4,7 +4,6 @@ from transformers import pipeline
 st.set_page_config(page_title="Roman Urdu / English Language ID", page_icon="🔤")
 
 # --- Configuration ---------------------------------------------------------
-# Replace with your published model repo, e.g. "muhammadahmad/code-switching-codesaviours-si26-muhammadahmad"
 MODEL_ID = "Muhammad-Ahmad-1263/code-switching-codesaviours-si26-muhammadahmad"
 
 LABEL_COLORS = {

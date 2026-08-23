@@ -23,4 +23,4 @@ Every sentence in this dataset mixes Roman Urdu and English the way people natur
   communities in everyday Pakistani speech (e.g. "mobile", "internet")
 
 ### Dataset
-Published on HuggingFace: `<add your HuggingFace dataset link here after upload>`
+Published on HuggingFace: https://huggingface.co/datasets/Muhammad-Ahmad-1263/code-switching-codesaviours-si26-muhammadahmad
